@@ -10,6 +10,12 @@
 xmake
 ```
 
+## Screenshots
+
+Basic Dungeon Generation:
+
+![Dungeon](screenshots/basic_dungeon.png)
+
 ## Usage
 
 API:
