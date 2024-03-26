@@ -8,7 +8,6 @@
 
 ```bash
 xmake
-xmake run
 ```
 
 ## Usage
